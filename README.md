@@ -7,7 +7,7 @@ Make sure you have python downloaded
 
 type python -m venv .venv to create a virtual environment
 
-type ./Scripts/Activate.ps1 to enter the virtual environment (you should see (.venv) next to your path in the terminal)
+type ./.venv/Scripts/Activate.ps1 to enter the virtual environment (you should see (.venv) next to your path in the terminal)
 
 type pip install -r requirements.txt to install the required packages to run the project
 
